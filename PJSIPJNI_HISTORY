@@ -1,0 +1,918 @@
+    1  apt-cache search mysql
+    2  apt-cache search mysql | grep mysql
+    3  apt-get install mysql-server
+    4  systemctl status mysql
+    5  mysql 
+    6  exit
+    7  mysql 
+    8  systemctl mysql restart
+    9  systemctl restart mysql
+   10  mysql -u "admin" -p "root"
+   11  mysql 
+   12  mysql -u admin -p "root"
+   13  mysql -u admin
+   14  mysql
+   15  mysql -u guna
+   16  mysql -u guna -p
+   17  mysql -u 'guna@localhost' -p
+   18  mysql -u guna -p
+   19  systemctl restart mysql
+   20  docker ps -a
+   21  l
+   22  cd 
+   23  ls
+   24  cd JVoIP/
+   25  ls
+   26  cd JVoIP/
+   27  ls
+   28  cd 2.0/
+   29  ls
+   30  emacs JVoIP-2.0.pom.lastUpdated 
+   31  cd ../../
+   32  cd ../
+   33  ;s
+   34  ls
+   35  cd 
+   36  ls
+   37  l
+   38  cd 
+   39  ls
+   40  cd snap/
+   41  ls
+   42  cd snap-store/
+   43  ls
+   44  cd current
+   45  ls
+   46  cd 
+   47  ls
+   48  docker --version
+   49  docker ps -a
+   50  docker system purne
+   51  docker system prune 
+   52  docker system prune -all
+   53  docker system prune 
+   54  ls
+   55  docker ps -a
+   56  docker images
+   57  docker rmi ubuntu
+   58  ls
+   59  docker pull ubuntu
+   60  docker run asterisk:latest
+   61  docker pull andrius/asterisk
+   62  docker images
+   63  docker rmi ubuntu 
+   64  ls
+   65  docker images
+   66  docker run -it 248e7c454acd
+   67  ls
+   68  asterisk stop
+   69  cd /var/run/asterisk/asterisk.ctl 
+   70  cd /var/run/asterisk/
+   71  ls
+   72  ./asterisk.ctl 
+   73  sudo asterisk.ctl 
+   74  asterisk -vvvvvvvr
+   75  cd 
+   76  cd /etc/asterisk/manager.conf 
+   77  cd /etc/asterisk/
+   78  nano manager.conf 
+   79  ls
+   80  asterisk -vvvvvvvr
+   81  ld
+   82  ps
+   83  docker run -it ubuntu /bin/bash
+   84  ls
+   85  emacs extensions.conf
+   86  gedit extensions
+   87  gedit extensions.conf
+   88  gedit pjsip.conf 
+   89  asterisk restart
+   90  asterisk stop
+   91  asterisk -r
+   92  ls
+   93  ./manager.d/
+   94  cd ./manager.
+   95  cd ./manager.d
+   96  ls
+   97  cd ..
+   98  source extensions.conf
+   99  man asterisk
+  100  gedit cdr_mysql.conf 
+  101  ls
+  102  cd Downloads/
+  103  docker build -t myasterisk:0.2 .
+  104  ls
+  105  docker system prune 
+  106  cd Downloads/
+  107  docker build -t myasterisk:0.2 .
+  108  ls
+  109  docker images
+  110  docker run -it --net =9999:9999
+  111  docker run -it --net =9999:/bin/bash
+  112  docker run -it --net = 9999: /bin/bash
+  113  docker images
+  114  docker run -it b2af11a18326
+  115  ls
+  116  docker run -it --net=host myasterisk:0.2 bash
+  117  cd 
+  118  cd git
+  119  ls
+  120  cd hom
+  121  cd
+  122  ls
+  123  cd 
+  124  cd snap/
+  125  ls
+  126  cd snap-store/
+  127  ls
+  128  cd 547
+  129  ls
+  130  cd ..
+  131  cd ../../
+  132  os
+  133  ls
+  134  exit
+  135  apt install wscat
+  136  wscat  www.google.com
+  137  apt install node-ws
+  138  wscat www.google.com
+  139  wscat www.google.com -c
+  140  wscat -c www.google.com 
+  141  wscat -c localhost:9999
+  142  wscat -l 9999
+  143  ps
+  144  wscat -l 1234
+  145  wscat -l 123
+  146  ls
+  147  wscat -c localhost:123
+  148  wscat -c localhost:1234
+  149  nc localhost:1234
+  150  nc -c  localhost:1234
+  151  nc -p  localhost:1234
+  152  nc -p 1234
+  153  nc -l  localhost:1234
+  154  wscat -c 92.168.3.165:1234
+  155  ls
+  156  cd ./git/
+  157  ls
+  158  cd asteriskconfiguration
+  159  ls
+  160  cd target/
+  161  ls
+  162  java  --module-path $FX/lib --add-modules javafx.controls,javafx.fxml-jar asteriskconfiguration-1.0-SNAPSHOT.jar 
+  163  java  --module-path $FX/lib --add-modules javafx.controls,javafx.fxml -jar asteriskconfiguration-1.0-SNAPSHOT.jar 
+  164  java  --module-path $FX/lib --add-modules javafx.controls,javafx.fxml -jar asteriskconfiguration-1.0-SNAPSHOT-jar-with-dependencies.jar 
+  165  cd ../
+  166  mvn clean
+  167  mvn install
+  168  java  --module-path $FX/lib --add-modules javafx.controls,javafx.fxml -jar asteriskconfiguration-1.0-SNAPSHOT-jar-with-dependencies.jar 
+  169  cd target/
+  170  java  --module-path $FX/lib --add-modules javafx.controls,javafx.fxml -jar asteriskconfiguration-1.0-SNAPSHOT-jar-with-dependencies.jar 
+  171  cd 
+  172  exit
+  173  docker images
+  174  docker rmi  248e7c454acd
+  175  docker ps -a
+  176  docker system purne
+  177  docker system prune
+  178  ls
+  179  docker ps -a
+  180  docker images
+  181  docker rmi 248e7c454acd
+  182  ls
+  183  docker images
+  184  docker rmi c6ad7e71ba7d
+  185  cd Downloads/
+  186  ls
+  187  grep Dockerfile 
+  188  ls
+  189  docker run -t myasterisk:0.2
+  190  docker images
+  191  docker rmi b2af11a18326
+  192  docker stop b2af11a18326
+  193  docker ps -a
+  194  docker run  -it b2af11a18326
+  195  docker images
+  196  docker build -it myasterisk:2.0 ./Downloads/
+  197  docker build -t  myasterisk:2.0 ./Downloads/
+  198  cd /etc/asterisk/
+  199  asterisk -vvvr
+  200  gedit http.conf 
+  201  nc  0.0.0.0.8089
+  202  asterisk -vvvr
+  203  gedit manager.conf 
+  204  asterisk -vvvvvr
+  205  ls
+  206  update-alternatives --config java
+  207  service java
+  208  source ~/.bashrc
+  209  ls
+  210  java --version
+  211  cd JNI/
+  212  ls
+  213  mv program.java Program.java
+  214  javac Program.java 
+  215  ls
+  216  cd  Postman/
+  217  ls
+  218  cd files/
+  219  ls
+  220  cd ../../
+  221  rm -rf Postman/
+  222  ls
+  223  apt install jd
+  224  apt install JD
+  225  sudo  install jd
+  226  sudo apt-get install jd
+  227  sudo apt-get install jd-cli.jar
+  228  cd Desktop/GUNA/
+  229  ls
+  230  cd JAVADECOMPILER/jad.exe 
+  231  ls
+  232  cd JAVADECOMPILER/
+  233  ls
+  234  ls -l
+  235  ls
+  236  cd opt/
+  237  ls
+  238  cd jd-gui/
+  239  ls
+  240  gedit program.java
+  241  javac program.java 
+  242  cd 
+  243  ls
+  244  install -i jd-gui-1.6.6.rpm 
+  245  install  jd-gui-1.6.6.rpm 
+  246  rpm -i jd-gui-1.6.6.rpm 
+  247  sudo apt install rpm
+  248  rpm -i jd-gui-1.6.6.rpm 
+  249  sudo apt  rpm
+  250  rpm install 
+  251  install rpm
+  252  rpm --version
+  253  sudo dnf localinstall jd-gui-1.6.6.rpm 
+  254  sudo  localinstall jd-gui-1.6.6.rpm 
+  255  sudo rpm -i jd-gui-1.6.6.rpm 
+  256  sudo rpm Alien  -i jd-gui-1.6.6.rpm 
+  257  sudo Align rpm  -i jd-gui-1.6.6.rpm 
+  258  sudo Alien rpm  -i jd-gui-1.6.6.rpm 
+  259  rpm jd-gui-1.6.6.rpm 
+  260  cd 
+  261  chmod 700 'SceneBuilder-18.0.0.rpm' 
+  262  ./'SceneBuilder-18.0.0.rpm' 
+  263  ./SceneBuilder-18.0.0.rpm 
+  264  ls
+  265  rpm2cpio jd-gui-1.6.6.rpm 
+  266  rpm2cpio jd-gui-1.6.6.rpm |cpio -idmv
+  267  ls
+  268  ls -l
+  269  gedit README.md 
+  270  java -jar *.*
+  271  java -jar jd-gui-1.6.6-min.jar 
+  272  ls
+  273  javac
+  274  cp [JAVA_HOME]/jre/bin/java /usr/bin/
+  275  echo $JAVA_HOME
+  276  cat JAVA_HOME
+  277  cd //
+  278  cd bin/
+  279  ls
+  280  ls -l
+  281  ls -l  | grep "java"
+  282  update-alternatives install java
+  283  update-alternatives  install java
+  284  update-alternatives  install javah
+  285  l
+  286  ls -l  | grep "java"
+  287  cd //
+  288  ls
+  289  emacs ~/.bashrc
+  290  gedit ~/.bashrc 
+  291  emacs ~/.bashrc
+  292  JAVA_HOME
+  293  gedit ~/.bashrc 
+  294  asterisk -vvvvr
+  295  asterisk -rvvv
+  296  /etc/asterisk -rvvv
+  297  cd
+  298  /etc/asterisk -rvvv
+  299  asterisk -rvvv
+  300  cd asterisk -rvvv
+  301  etc/asterisk -rvvv
+  302  cd etc/asterisk -rvvv
+  303  cd /etc/asterisk/
+  304  asterisk -r
+  305  ls
+  306  asterisk -vvvr
+  307  cd 
+  308  cd /var/run/
+  309  ls
+  310  cd asterisk/
+  311  l
+  312  ls
+  313  asterisk alt.asterisk.canary.tweet.tweet.tweet 
+  314  ./asterisk.ctl 
+  315  ls
+  316  chmod  700 asterisk.ctl 
+  317  ./asterisk.ctl 
+  318  ls 
+  319  ls -l
+  320  ./asterisk.ctl 
+  321  chmod 777 asterisk.ctl 
+  322  ./asterisk.ctl 
+  323  ls 
+  324  source asterisk.ctl 
+  325  cd 
+  326  ls
+  327  cd Desktop/
+  328  ls
+  329  cd 
+  330  cd~
+  331  cd ~
+  332  ls
+  333  asterisk status
+  334  asterisk -r
+  335  asterisk restart
+  336  asterisk stop
+  337  asterisk start
+  338  cd
+  339  ls
+  340  docker images
+  341  docker ps
+  342  docker ps -l 
+  343  docker start eea7b352caf2
+  344  docker attach eea7b352caf2
+  345  docker ps -a
+  346  docker start eea7b352caf2
+  347  docker attach eea7b352caf2
+  348  cd /etc/init.d/
+  349  ls
+  350  asterisk status
+  351  asterisk stop
+  352  asterisk start
+  353  asterisk cd ../..
+  354  cd 
+  355  /etc/init.d/asterisk status
+  356  /etc/init.d/asterisk stop
+  357  /etc/init.d/asterisk status
+  358  docker images
+  359  docker start asterisk
+  360  docker start andrious/asterisk
+  361  docker run asterisk
+  362  docker images
+  363  docker  start 364f6ac3bd7d
+  364  docker run 364f6ac3bd7d
+  365  /etc/init.d/asterisk status
+  366  /etc/init.d/asterisk status
+  367  cd asterisk/
+  368  cd 
+  369  cd /
+  370  ls
+  371  cd run/
+  372  ls
+  373  cd asterisk/
+  374  ls
+  375  ./asterisk.ctl 
+  376  source ./asterisk.ct
+  377  source ./asterisk.ctl 
+  378  cd ../../
+  379  ls
+  380  cd etc/
+  381  ls
+  382  cd asterisk/
+  383  ls
+  384  asterisk -vvvvr
+  385  docker images
+  386  docker ps -a
+  387  docker system purrne
+  388  docker system prune
+  389  docker ps
+  390  docker system prune 364f6ac3bd7d
+  391  docker stats
+  392  docker system prune
+  393  ls
+  394  docker info
+  395  docker pull windows
+  396  docker login
+  397  docker pull windows
+  398  docker start 
+  399  docker images
+  400  docker start 364f6ac3bd7d
+  401  docker pull docker pull amazonlinux
+  402  docker pull amazonlinux
+  403  ps 
+  404  docker ps -a
+  405  docker images
+  406  docker images ubuntu
+  407  docker images ubuntu:latest
+  408  docker pull ubuntu
+  409  docker image
+  410  docker images
+  411  docker run -it d2e4e1f51132 /bin/bash
+  412  docker ps -a
+  413  docker images
+  414  docker run ecdeb69c57ad -p 1000:1000
+  415  docker run ecdeb69c57ad 
+  416  ps -a
+  417  docker ps -a
+  418  aws ec2 describe-instances
+  419  docker system prune 
+  420  docker images
+  421  docker ps -a
+  422  exir
+  423  docker run 364f6ac3bd7d :1000:1000
+  424  docker run 364f6ac3bd7d 
+  425  cccls
+  426  apt-get install asterisk-s
+  427  apt-get install asterisk-y
+  428  apt-get install asterisk
+  429  apt-get install asterisk-16-current.tar.gz 
+  430  eixt
+  431  exit
+  432  docker build -t myasterisk:0.2 .
+  433  docker ps
+  434  docker images=
+  435  ls
+  436  docker ps
+  437  docker images
+  438  docker ps -a
+  439  docker images
+  440  cd
+  441  docker
+  442  cd Downlo
+  443  ls
+  444  cd 
+  445  cd
+  446  ls
+  447  cd home/
+  448  ls
+  449  cd user/Downloads/
+  450  ls
+  451  `
+  452  docker build  -t myasterisk:0.1 .
+  453  docker  images
+  454  docker start 
+  455  docker start myasterisl
+  456  docker start myasteris
+  457  docker start myasterisk
+  458  docker images
+  459  docker ps -a
+  460  docker system purne
+  461  docker system prune
+  462  docker images
+  463  docker rmi 364f6ac3bd7d
+  464  docker rmi  ecdeb69c57ad
+  465  docker images
+  466  docker run -it ubuntu:bin\bash
+  467  docker images 
+  468  docker run d2e4e1f51132 : bin/bash
+  469  exir
+  470  exit
+  471  ls
+  472  docker ps -a
+  473  docker  start  c0478ece71c3
+  474  docker run c0478ece71c3
+  475  cd /etc/asterisk/
+  476  ls
+  477  apt-get install less
+  478  less http.conf 
+  479  ls
+  480  ddocker run -it --net=host myasterisk:0.1 bash
+  481  ls
+  482  docker images
+  483  docker system prune
+  484  docker ps -a
+  485  docker system prune 6ebe44a9d4fb
+  486  docker system prune
+  487  docker stop 6ebe44a9d4fb
+  488  docker stats
+  489  docker system 
+  490  docker system df
+  491  docker ps -a
+  492  docker start c0478ece71c3
+  493  docker run c0478ece71c3
+  494  docker run -it --net=host myasterisk:0.1 bash
+  495  docker images
+  496  docker  ps -a
+  497  docker start 6ebe44a9d4fb
+  498  /etc/init.d/asterisk status
+  499  asterisk -rvvvvvvvvvvv
+  500  /etc/asterisk/
+  501  cd /etc/asterisk/
+  502  ls
+  503  emacs ari.conf 
+  504  make
+  505  make install
+  506  vi Makefile 
+  507  ls
+  508  cd pjsip_patches/
+  509  ls
+  510  cd ..
+  511  ls
+  512  cd src
+  513  ls
+  514  cd org/
+  515  ls
+  516  cd pjsip/
+  517  ls
+  518  cd pjsua/
+  519  ls
+  520  cd util/
+  521  ls
+  522  cd ../..
+  523  cd ..
+  524  ls
+  525  vi pjsua.i
+  526  vi pjsua.i_header 
+  527  make
+  528  sudo install swig
+  529  sudo apt install swig
+  530  make
+  531  make install
+  532  gedit Makefile 
+  533  make
+  534  gedit Makefile 
+  535  make
+  536  gedit Makefile 
+  537  make
+  538  sudo make
+  539  python ./setup install
+  540  apt-get install python
+  541  python ./setup install
+  542  ls
+  543  python ./setup.py install
+  544  l
+  545  make dep 
+  546  ls
+  547  make
+  548  emacs _pjsua.c
+  549  vim _pjsua.h
+  550  ls
+  551  ls -l
+  552  chmod 700 *.*
+  553  ls
+  554  make
+  555  vim _pjsua.h
+  556  make
+  557  ls
+  558  vim _pjsua.h
+  559  LS
+  560  ls
+  561  cd ../../..
+  562  ls
+  563  ./configure
+  564  make dep
+  565  make
+  566  ls
+  567  make
+  568  ls
+  569  cd pjsip-apps/
+  570  ls
+  571  cd bin/
+  572  ls
+  573  ./pjsua-x86_64-unknown-linux-gnu 
+  574  ls
+  575  ./pjsua-x86_64-unknown-linux-gnu 
+  576  sudo ./pjsua-x86_64-unknown-linux-gnu 
+  577  ./pjsua-x86_64-unknown-linux-gnu 
+  578  eclipse -clean
+  579  ls
+  580  make
+  581  exit
+  582  apt-get install g++
+  583  ls
+  584  cd 
+  585  exit
+  586  apt-get install gcc-c++
+  587  ls
+  588  make
+  589  ls
+  590  nano Makefile 
+  591  apt-get install portaudio
+  592  apt-cache search portaudio
+  593  apt-get install portaudio19-dev
+  594  make
+  595  exit
+  596  apt-get install libportaudiocpp0
+  597  apt-get install libportaudio2
+  598  cd /usr/local/lib/
+  599  ls
+  600  cd 
+  601  exit
+  602  sudo apt-get install -y libportaudio2
+  603  apt-get update
+  604  make
+  605  emacs -nw Makefile 
+  606  make clean
+  607  make
+  608  make distclean
+  609  make
+  610  sudo apt-get install portaudio19-dev python-pyaudio python3-pyaudio
+  611  sudo apt-get install portaudio19-dev
+  612  sudo apt-cache search portaudio
+  613  ls
+  614  make
+  615  cd src/
+  616  cd os
+  617  ls
+  618  emacs -nw pa_unix_hostapis.c 
+  619  find . -name pa_unix_hostapis.c
+  620  nano pa_unix_hostapis.c 
+  621  emacs -nw pa_unix_hostapis.c 
+  622  exit
+  623  ls
+  624  touch pjsiperr.txt 
+  625  emacs pjsiperr.txt 
+  626  ../../lib; then mkdir -p ../../lib; fi
+  627  ar rv ../../lib/libg7221codec-x86_64-unknown-linux-gnu.a  output/libg7221codec-x86_64-unknown-linux-gnu/common/common.o  output/libg7221codec-x86_64-unknown-linux-gnu/common/huff_tab.o  output/libg7221codec-x86_64-unknown-linux-gnu/common/tables.o  output/libg7221codec-x86_64-unknown-linux-gnu/common/basic_op.o  output/libg7221codec-x86_64-unknown-linux-gnu/decode/coef2sam.o  output/libg7221codec-x86_64-unknown-linux-gnu/decode/dct4_s.o  output/libg7221codec-x86_64-unknown-linux-gnu/decode/decoder.o  output/libg7221codec-x86_64-unknown-linux-gnu/encode/dct4_a.o  output/libg7221codec-x86_64-unknown-linux-gnu/encode/sam2coef.o  output/libg7221codec-x86_64-unknown-linux-gnu/encode/encoder.o
+  628  r - output/libg7221codec-x86_64-unknown-linux-gnu/common/common.o
+  629  r - output/libg7221codec-x86_64-unknown-linux-gnu/common/huff_tab.o
+  630  r - output/libg7221codec-x86_64-unknown-linux-gnu/common/tables.o
+  631  r - output/libg7221codec-x86_64-unknown-linux-gnu/common/basic_op.o
+  632  r - output/libg7221codec-x86_64-unknown-linux-gnu/decode/coef2sam.o
+  633  r - output/libg7221codec-x86_64-unknown-linux-gnu/decode/dct4_s.o
+  634  r - output/libg7221codec-x86_64-unknown-linux-gnu/decode/decoder.o
+  635  r - output/libg7221codec-x86_64-unknown-linux-gnu/encode/dct4_a.o
+  636  r - output/libg7221codec-x86_64-unknown-linux-gnu/encode/sam2coef.o
+  637  r - output/libg7221codec-x86_64-unknown-linux-gnu/encode/encoder.o
+  638  ranlib ../../lib/libg7221codec-x86_64-unknown-linux-gnu.a
+  639  make[3]: Leaving directory '/home/user/Desktop/pjsip-jni/third_party/build/g7221'
+  640  make[2]: Leaving directory '/home/user/Desktop/pjsip-jni/third_party/build/g7221'
+  641  make[2]: Entering directory '/home/user/Desktop/pjsip-jni/third_party/build/portaudio'
+  642  make -f /home/user/Desktop/pjsip-jni/build/rules.mak APP=PORTAUDIO app=libportaudio ../../lib/libportaudio-x86_64-unknown-linux-gnu.a
+  643  make[3]: Entering directory '/home/user/Desktop/pjsip-jni/third_party/build/portaudio'
+  644  .libportaudio-x86_64-unknown-linux-gnu.depend:1: *** missing separator.  Stop.
+  645  make[3]: Leaving directory '/home/user/Desktop/pjsip-jni/third_party/build/portaudio'
+  646  make[2]: *** [Makefile:67: libportaudio-x86_64-unknown-linux-gnu.a] Error 2
+  647  make[2]: Leaving directory '/home/user/Desktop/pjsip-jni/third_party/build/portaudio'
+  648  make[1]: *** [Makefile:7: all] Error 1
+  649  ls
+  650  ./configure
+  651  make dep
+  652  ls
+  653  ./configure
+  654  make deb
+  655  make dep
+  656  sudo apt-get install libaaudioport
+  657  sudo apt-get install libaudioport
+  658  sudo apt-get install libaudioport.a
+  659  sudo apt-get install libaudio.a
+  660  ./configure
+  661  make dep
+  662  make  disclean
+  663  make cleanz
+  664  make clean
+  665  make discleanz
+  666  make disclean
+  667  ./configure
+  668  make dep
+  669  sudo apt-get install libasound-dev
+  670  ./configure && make
+  671  make clean
+  672  ./configure && make
+  673  sudo make install
+  674  cp lib/.libs/libportaudio.a /YOUR/PROJECT/DIR
+  675  ./configure
+  676  make dep
+  677  apt-get install libportaudio2
+  678  apt autoremove
+  679  ls
+  680  ./configure-android 
+  681  ./configure
+  682  make clean
+  683  make 
+  684  ls
+  685  find -inr  "sock_bsd"
+  686  find inr  "sock_bsd"
+  687  find . inr  "sock_bsd"
+  688  cd pjlib
+  689  ls
+  690  cd src/
+  691  ls
+  692  cd  pj
+  693  ls
+  694  gedit sock_bsd.c 
+  695  ps
+  696  ls
+  697  gedit sock_bsd.c 
+  698  vim sock_bsd.c 
+  699  make
+  700  cd ../../../
+  701  ls
+  702  emacs build.mak
+  703  make clean
+  704  ls
+  705  cd build
+  706  ls
+  707  cd ../
+  708  make 
+  709  ./build
+  710  built
+  711  emacs user.mak
+  712  ls
+  713  ./configure
+  714  make clean
+  715  make distclean
+  716  make realclean
+  717  ./configure-legacy 
+  718  make dep
+  719  ./configure
+  720  make dep
+  721  make
+  722  make clean
+  723  make realclean
+  724  ./configure
+  725  make dep
+  726  make
+  727  make clean
+  728  make distclean
+  729  make realclean
+  730  ./configure
+  731  make dep
+  732  make
+  733  make dep
+  734  cd third_party/build/
+  735  ls
+  736  cd portaudio
+  737  ls
+  738  vi Makefile 
+  739  cd ..
+  740  ls
+  741  cd portaudio
+  742  less Makefile 
+  743  cd ..
+  744  ls
+  745  cd ..
+  746  ls
+  747  cd ..
+  748  ls
+  749  find . -iname "rules.mak"
+  750  cd build
+  751  ls
+  752  less rules.mak 
+  753  cd ../third_party/b
+  754  cd ../third_party/build/
+  755  ls
+  756  cd portaudio
+  757  ls
+  758  less Makefile 
+  759  ls -la
+  760  less .libportaudio-x86_64-unknown-linux-gnu.depend 
+  761  cd ../../
+  762  cd ..
+  763  ls
+  764  less third_party/build/g7221/.libg7221codec-x86_64-unknown-linux-gnu.depend 
+  765  vi Makefile 
+  766  cd third_party/
+  767  ls
+  768  ls g7221/
+  769  tar -tf build/portaudio.tar.gz 
+  770  '
+  771  cd g7221/
+  772  ls
+  773  cd common/
+  774  ls
+  775  cd ..
+  776  cd decode/
+  777  ls
+  778  cd ../encode/
+  779  ls
+  780  cd ..
+  781  ls
+  782  cd ..
+  783  ls
+  784  cd build/
+  785  ls
+  786  cd ..
+  787  ls
+  788  cp -af pjsip-jni pjsip-jni-bkup
+  789  cd pjsip-jni
+  790  cd third_party/
+  791  ls
+  792  tar -xf /home/user/Downloads/pa_stable_v190700_20210406.tgz 
+  793  ls
+  794  cd build/
+  795  ls
+  796  rm -rf portaudio*
+  797  cd ..
+  798  ls
+  799  cd ..
+  800  ls
+  801  make dep
+  802  ls
+  803  cd third_party/build/
+  804  ls
+  805  cp -af ../portaudio .
+  806  cd ../../
+  807  make dep
+  808  cd third_party/portaudio/
+  809  ls
+  810  ./configure 
+  811  make
+  812  ls
+  813  cd build/
+  814  ls
+  815  cd ..
+  816  ls
+  817  cd bin
+  818  ls
+  819  cd ../lib
+  820  ls
+  821  cd ..
+  822  ls
+  823  cd ..
+  824  ls
+  825  rm -rf build/portaudio/
+  826  cp -af ../../pjsip-jni-bkup/third_party/build/portaudio build/
+  827  cd ../
+  828  make dep
+  829  ls
+  830  ./configure --help
+  831  cd third_party/
+  832  ls
+  833  mv portaudio ../../
+  834  rm -rf build/portaudio/
+  835  cd ../
+  836  ls
+  837  ./configure 
+  838  make
+  839  vi third_party/build/g7221/Makefile 
+  840  grep -rni 
+  841  grep -rni "portaudio" third_party/build/g7221/
+  842  grep -rni "portaudio" third_party/build/
+  843  less third_party/build/os-linux.mak 
+  844  vi third_party/build/os-linux.mak 
+  845  make
+  846  make distclean
+  847  ./configure
+  848  ls third_party/
+  849  cp -af ../portaudio .
+  850  mv portaudio third_party/
+  851  make distclean
+  852  ./configure
+  853  cd third_party/portaudio/
+  854  ls
+  855  cd ..
+  856  ls
+  857  cd ..
+  858  rm -rf third_party/portaudio/
+  859  grep -rni "portaudio" 
+  860  make distclean
+  861  grep -rni "portaudio" 
+  862  vi third_party/build/os-auto.mak.in 
+  863  cd ..
+  864  ls
+  865  cd portaudio/
+  866  ls
+  867  ./configure 
+  868  ./configure  --help
+  869  make
+  870  make all
+  871  ls
+  872  make distclean
+  873  ./configure 
+  874  make
+  875  ls
+  876  cd ..
+  877  ls
+  878  mkdir install_portaudio
+  879  cd portaudio/
+  880  make install INSTALLDIR=/home/user/Desktop/install_portaudio/
+  881  ls ../install_portaudio/
+  882  less Makefile
+  883  make install DESTDIR=/home/user/Desktop/install_portaudio/
+  884  cd ../install_portaudio/
+  885  ls
+  886  cd ../
+  887  ls
+  888  rm -rf install_portaudio/
+  889  cd portaudio/
+  890  ./configure  --prefix=/usr
+  891  make
+  892  make install DESTDIR=/home/user/Desktop/install_portaudio/
+  893  cd ../pjsip-jni
+  894  ls
+  895  ./configure --help
+  896  ./configure --with-external-pa CFLAGS=-I/home/user/Desktop/install_portaudio/usr/include LDFLAGS=-L/home/user/Desktop/install_portaudio/usr/lib
+  897  ./configure --with-external-pa CFLAGS=-I/home/user/Desktop/install_portaudio/usr/include LDFLAGS=-L/home/user/Desktop/install_portaudio/usr/lib --prefix=/usr
+  898  make
+  899  cd third_party/lib/
+  900  ls
+  901  cp -af ../../../install_portaudio/usr/lib/libportaudio.a libportaudio-x86_64-unknown-linux-gnu.a
+  902  cd ../../
+  903  make
+  904  ls
+  905  less Makefile 
+  906  cd ../
+  907  mkdir install_pjsip
+  908  cd pjsip-jni
+  909  make install DESTDIR=/home/user/Desktop/install_pjsip
+  910  cd ../install_pjsip/
+  911  ls
+  912  cd usr/
+  913  ls
+  914  cd lib/
+  915  ls
+  916  cd ../
+  917  ls
+  918  history >> /home/user/Documents/PJSIPJNI_HISTORY
