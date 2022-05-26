@@ -1,3 +1,26 @@
+ 
+  IMPORTANT NOTE FOR BUILD THE PJSIP_JNI :
+ =========================================================================================================================================================
+ 
+ stage 1 :
+           Install the master git project and then CheckOut the brach as Compileingstage  there is File as Usr/local/include and /lib
+           and Download the things..
+ Stage 2:
+         When You compiling  time USING these command :
+         
+         ./configure  --with-External-pa CFLAGS=-I (path of Your compilingStage Include File) LDFLAGS=-L (Specfify the Path of you Lib file that have Genarated )
+         ---------> CFLAGS ---> is the Compiler to iniciate  the compiler  to include the include file That You Required inthe Project
+         ---------> LDFLAGS------> is the Compiler to iniciate the Compiler to Include the dynamic or static Libary required for Your Project 
+         
+         
+ TO SEE THE HELP COMMAND  FOR CONFIGURE :
+                                            ./configure --help
+                                            
+  ==========================================================================================================================================================
+ 
+ 
+ 
+ 
  Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>
  Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
 
