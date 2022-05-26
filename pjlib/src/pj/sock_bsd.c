@@ -47,6 +47,8 @@ const pj_uint16_t PJ_AF_IRDA	= AF_IRDA;
 const pj_uint16_t PJ_AF_IRDA	= 0xFFFF;
 #endif
 
+//const TCP_NODELAY = 0xFFFF;
+
 /*
  * Socket types conversion.
  * The values here are indexed based on pj_sock_type
@@ -135,7 +137,7 @@ const pj_uint16_t PJ_IPTOS_MINCOST	= 0x02;
 const pj_uint16_t PJ_SO_TYPE    = SO_TYPE;
 const pj_uint16_t PJ_SO_RCVBUF  = SO_RCVBUF;
 const pj_uint16_t PJ_SO_SNDBUF  = SO_SNDBUF;
-const pj_uint16_t PJ_TCP_NODELAY= TCP_NODELAY;
+const pj_uint16_t PJ_TCP_NODELAY= 0xFFFF;
 const pj_uint16_t PJ_SO_REUSEADDR= SO_REUSEADDR;
 #ifdef SO_NOSIGPIPE
 const pj_uint16_t PJ_SO_NOSIGPIPE = SO_NOSIGPIPE;
