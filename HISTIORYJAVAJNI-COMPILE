@@ -1,0 +1,1000 @@
+ 1220  find * -name libwebrtc-x86_64-unknown-linux-gnu.a
+ 1221  sudo apt-get install glob
+ 1222  sudo apt-get install redex
+ 1223  man wget
+ 1224  wget -c  https://www.portaudio.com/repos/portaudio/trunk
+ 1225  wget -c  https://www.portaudio.com/repos/portaudio/
+ 1226  wget -c  https://www.portaudio.com/repos/portaudio/branches/v19-devel
+ 1227  ls
+ 1228  cd 
+ 1229  ls
+ 1230  cd software/
+ 1231  ls
+ 1232  cd ..
+ 1233  ls
+ 1234  cd Desktop/
+ 1235  ls
+ 1236  cd pjsip-jni/
+ 1237  ls
+ 1238  ./configure --help
+ 1239  make
+ 1240  make clean
+ 1241  ./configure
+ 1242  make dep 
+ 1243  make deb
+ 1244  make
+ 1245  make dep
+ 1246  cd /home/user/Desktop/pjsip-jni/third_party/build/portaudio/
+ 1247  ls
+ 1248  cd src/
+ 1249  ls
+ 1250  cd ..
+ 1251  ls
+ 1252  make
+ 1253  apt-get install gcc-c++
+ 1254  sudo su
+ 1255  bash
+ 1256  cd //lib
+ 1257  ls
+ 1258  cd jvm/
+ 1259  ls
+ 1260  ls
+ 1261  cd software/
+ 1262  ls
+ 1263  cd jdk1.8.0_331/
+ 1264  ls
+ 1265  pwd
+ 1266  cd include/
+ 1267  ls
+ 1268  pwd
+ 1269  cd ../
+ 1270  ;s
+ 1271  ls
+ 1272  cd lib/
+ 1273  ls
+ 1274  ls
+ 1275  cat README 
+ 1276  ls
+ 1277  make clean
+ 1278  sudo su
+ 1279  wget -c svn checkout https://svn.code.sf.net/p/pjsip-jni/code/ pjsip-jni-code
+ 1280  ls
+ 1281  grep netbeans-13/
+ 1282  find -f "netbeans-13/"
+ 1283  find -d "netbeans-13/"
+ 1284  ls
+ 1285  cd //
+ 1286  ls
+ 1287  netbeans
+ 1288  ls
+ 1289  cd opt/
+ 1290  ls
+ 1291  cd st
+ 1292  ls
+ 1293  cd ../../
+ 1294  ls
+ 1295  cd etc/
+ 1296  ls
+ 1297  run 
+ 1298  cd 
+ 1299  ls
+ 1300  ./netbeans-13/
+ 1301  cd ./netbeans-13/
+ 1302  ls
+ 1303  cd netbeans/
+ 1304  ls
+ 1305  cd javafx
+ 1306  ls
+ 1307  cd config/
+ 1308  ls
+ 1309  cd Modules/
+ 1310  ls
+ 1311  cd ../../
+ 1312  ls
+ 1313  cd ../
+ 1314  ls
+ 1315  cd ../
+ 1316  netstat 
+ 1317  cd ../
+ 1318  ls
+ 1319  netcat 
+ 1320  netbeans-13/
+ 1321  ./netbeans-13/
+ 1322  man cp
+ 1323  cd //lib/git-core/
+ 1324  find -f -name  "PAT"
+ 1325  find -f -name  "PAT*"
+ 1326  find -type f -name  "PAT*"
+ 1327  cat PAT.txt 
+ 1328  cd 
+ 1329  cd NetBeansProjects/
+ 1330  ls
+ 1331  cd CheckingOs
+ 1332  ls
+ 1333  cd dist/
+ 1334  ls
+ 1335  java -jar CheckingOs.jar 
+ 1336  java --version
+ 1337  whereis java
+ 1338  source ~/.bashrc
+ 1339  whereis java
+ 1340  git init
+ 1341  ls
+ 1342  ls -a
+ 1343  git add pjsip_compile 
+ 1344  git add PJSIPJNI_HISTORY 
+ 1345  git show
+ 1346  git log 
+ 1347  git  show
+ 1348  git  status 
+ 1349  git remote 
+ 1350  git remote -v
+ 1351  git remote add origin https://github.com/gunaNeelamegam/Pjsip-JNI.git
+ 1352  git  remote -v
+ 1353  git login
+ 1354  git  commit -m "Adding the pjsip history and pjsip compile Stage's"
+ 1355  git log --oneline 
+ 1356  git branch 
+ 1357  git branch -b project 
+ 1358  git checkout JNI MAIN
+ 1359  git checkout JNI_MAIN
+ 1360  git checkout -b  JNI_MAIN
+ 1361  ls
+ 1362  git branch 
+ 1363  git  remote  -c
+ 1364  git  remote  v
+ 1365  git  remote -v
+ 1366  git push origin 
+ 1367  git push origin --all
+ 1368  git checkout 
+ 1369  ls
+ 1370  git branch 
+ 1371  git checkout master 
+ 1372  git branch --help
+ 1373  git branch -d master 
+ 1374  git branch 
+ 1375  git branch -b JNI_MAIN 
+ 1376  git checkout JNI_MAIN 
+ 1377  git branch -d master 
+ 1378  git branch 
+ 1379  git checkout -b code
+ 1380  git branch 
+ 1381  ls
+ 1382  cd ../
+ 1383  ls
+ 1384  cd Desktop/
+ 1385  ls
+ 1386  cd pjsip-jni
+ 1387  ls
+ 1388  make clean
+ 1389  make distclean 
+ 1390  make realclean 
+ 1391  sudo su
+ 1392  cd /tmp/
+ 1393  ls
+ 1394  tar -tf ~/Downloads/pa_stable_v190700_20210406.tgz 
+ 1395  ls
+ 1396  cd Desktop/
+ 1397  zls
+ 1398  ls
+ 1399  cd portaudio/
+ 1400  ls
+ 1401  ./configure
+ 1402  sudo su
+ 1403  cd Desktop/
+ 1404  ls
+ 1405  cd pjsip-jni/
+ 1406  ls
+ 1407  make distclean 
+ 1408  make clean
+ 1409  make realclean 
+ 1410  ./configure
+ 1411  sudo su
+ 1412  ifconfig 
+ 1413  docker images
+ 1414  sudo su
+ 1415  cd //lib/git-core/; cat PAt*
+ 1416  cd //lib/git-core/ ; cat PAt*
+ 1417  cd //lib/git-core/ 
+ 1418  cat PAT.txt 
+ 1419  cd 
+ 1420  ls
+ 1421  cd Documents/
+ 1422  ls
+ 1423  cd pjsip-jni/
+ 1424  ls
+ 1425  git add .
+ 1426  git add -A
+ 1427  git add -a
+ 1428  git config --global --add safe.directory /home/user/Documents/pjsip-jni
+ 1429  git add -a
+ 1430  git add -A
+ 1431  sudo git add -A
+ 1432  git status
+ 1433  git commit -m "pushing the Compiled JNI-PJSIP"
+ 1434  sudo git commit -m "pushing the Compiled JNI-PJSIP"
+ 1435  git log --oneline
+ 1436  git remote add git config --global --add safe.directory /home/user/Documents/pjsip-jni
+ 1437  git remote add https://github.com/gunaNeelamegam/pjsip-jni.git
+ 1438  git remote -add https://github.com/gunaNeelamegam/pjsip-jni.git
+ 1439  git remote add -t master -f  https://github.com/gunaNeelamegam/pjsip-jni.git
+ 1440  git remote -v
+ 1441  git remote remove 
+ 1442  git remote remove origin 
+ 1443  sudo git remote remove origin 
+ 1444  git remote remove origin 
+ 1445  git remote -v
+ 1446  sudo git remote -v
+ 1447  git branch 
+ 1448  sudo git push -uf master 
+ 1449  sudo git push -uf master --all
+ 1450  sudo git push -uf  --all
+ 1451  sudo git push -uf  https://github.com/gunaNeelamegam/pjsip-jni.git --all
+ 1452  cd ../
+ 1453  ls
+ 1454  git add install_pjsip/ pjsip_compile PJSIPJNI_HISTORY 
+ 1455  git commit -m "compiling ways and error"
+ 1456  git branch -b stages
+ 1457  git checkout COMPILINGSTAGES
+ 1458  git checkout -b  COMPILINGSTAGES
+ 1459  git push -uf https://github.com/gunaNeelamegam/pjsip-jni.git 
+ 1460  cd Downloads/
+ 1461  ls
+ 1462  cd //
+ 1463  cd
+ 1464  ls
+ 1465  cd Desktop/
+ 1466  ls
+ 1467  pjsip-jni
+ 1468  ls
+ 1469  cd pjsip-apps/
+ 1470  ls
+ 1471  cd src/
+ 1472  ls
+ 1473  cd ../
+ 1474  zls
+ 1475  ls
+ 1476  cd build/
+ 1477  ls
+ 1478  make 
+ 1479  ls
+ 1480  make clean
+ 1481  ls
+ 1482  cd ../
+ 1483  ls
+ 1484  cd bin/
+ 1485  ls
+ 1486  ./pjsua-x86_64-unknown-linux-gnu 
+ 1487  cd ../
+ 1488  ls
+ 1489  cd bin/
+ 1490  ls
+ 1491  ./pjsystest-x86_64-unknown-linux-gnu 
+ 1492  sudo su
+ 1493  ls
+ 1494  passwd
+ 1495  ls
+ 1496  sudo su
+ 1497  cd Documents/
+ 1498  ls
+ 1499  git remote -v
+ 1500  cd ../
+ 1501  cd Desktop/
+ 1502  ls
+ 1503  ifconfig 
+ 1504  cd //lib/git-core/
+ 1505  car PAT.txt 
+ 1506  cat PAT.txt 
+ 1507  shutdown 
+ 1508  shutdown now
+ 1509  ls
+ 1510  cd Documents/
+ 1511  ls
+ 1512  git init PJSIP
+ 1513  ls -a
+ 1514  cd PJSIP/
+ 1515  ld
+ 1516  ls
+ 1517  ls -a
+ 1518  cd ./.git/
+ 1519  ls
+ 1520  cat HEAD 
+ 1521  cd ../
+ 1522  ls
+ 1523  git add *
+ 1524  sudo su
+ 1525  ls
+ 1526  cd Documents/
+ 1527  ls
+ 1528  git restore 
+ 1529  git restore PJSIP
+ 1530  git reset
+ 1531  ls
+ 1532  git rm  PJSIP
+ 1533  git rm  
+ 1534  git rm  -f 
+ 1535  ls
+ 1536  git status
+ 1537  git restore pjsip-jni/
+ 1538  git status
+ 1539  git shortlog
+ 1540  git log 
+ 1541  git remote show 
+ 1542  git remote prune
+ 1543  git remote prune -n 
+ 1544  git purne --help
+ 1545  git prune --help
+ 1546  git rm --help
+ 1547  git  files-l
+ 1548  git  files-ls
+ 1549  git ls-files
+ 1550  git rm pjsip.conf 
+ 1551  git ls-files
+ 1552  git show 
+ 1553  git log
+ 1554  git log --all
+ 1555  git reset 
+ 1556  git reset .
+ 1557  git show
+ 1558  git lg
+ 1559  git log
+ 1560  git reset .
+ 1561  git log
+ 1562  git reset HEAD
+ 1563  git log
+ 1564  git ls-tre
+ 1565  git ls-tree
+ 1566  gedit git.txt
+ 1567  sl
+ 1568  ls
+ 1569  cd Downloads/
+ 1570  grep "my"
+ 1571  ls
+ 1572  man dpkg
+ 1573  dpkg -i mysql-workbench-community_8.0.28-1ubuntu21.10_amd64.deb
+ 1574  run
+ 1575  cd Downloads/
+ 1576  ld
+ 1577  ls
+ 1578  sudo dpkg -i mysql-workbench-community_8.0.28-1ubuntu21.10_amd64.deb
+ 1579  ls
+ 1580  cd mysql-server_8.0.28-1ubuntu21.10_amd64.deb-bundle/
+ 1581  ls
+ 1582  lss
+ 1583  ls
+ 1584  cd Documents/
+ 1585  ls
+ 1586  cd pjsip-jni/
+ 1587  ls
+ 1588  sudo su
+ 1589  sudo su
+ 1590  ls
+ 1591  mysql
+ 1592  sudo su
+ 1593  cd Downloads/
+ 1594  ls
+ 1595  ls *.zip
+ 1596  unzip JVoIP.zip 
+ 1597  cd JVoIP/
+ 1598  ls
+ 1599  evince JVoIP.pdf &
+ 1600  java -jar JVoIP.jar 
+ 1601  ls
+ 1602  cd ../../../
+ 1603  ls
+ 1604  cd user/
+ 1605  ls
+ 1606  history
+ 1607  sudo sy
+ 1608  sudo su
+ 1609  cd //etc/mysql/
+ 1610  cat my.cnf
+ 1611  ./debian-start 
+ 1612  ps
+ 1613  cd conf.d/
+ 1614  ls
+ 1615  emacs mysql.cnf 
+ 1616  ls
+ 1617  cd ../
+ 1618  ls
+ 1619  ls -l
+ 1620  mysqlshow 
+ 1621  sudo mysqlshow 
+ 1622  cd ../
+ 1623  ls
+ 1624  cd mysql/
+ 1625  ls
+ 1626  emacs debian
+ 1627  emacs debian-start 
+ 1628  emacs debian.cnf 
+ 1629  ld
+ 1630  ls
+ 1631  cd ../
+ 1632  l
+ 1633  ls
+ 1634  ld
+ 1635  cd ../
+ 1636  cd 
+ 1637  ls
+ 1638  service  mysql start 
+ 1639  service  mysql status
+ 1640  service  mysql stop
+ 1641  UPDATE mysql.user SET Password=password('root') WHERE User='root';
+ 1642  UPDATE mysql.user SET Password='root'WHERE User='root';
+ 1643  UPDATE mysql.user SET Password=password 'r
+ 1644  UPDATE mysql.user SET Password='root' WHERE User='root';
+ 1645  mysql -u root -p
+ 1646  /var/run/mysqld/mysqld.sock
+ 1647  git clone https://github.com/PortAudio/portaudio.git
+ 1648  ls
+ 1649  cd portaudio/
+ 1650  ls
+ 1651  ./configure
+ 1652  cd ../
+ 1653  cd 
+ 1654  make install 
+ 1655  ls
+ 1656  cd portaudio/
+ 1657  ls
+ 1658  make 
+ 1659  make install
+ 1660  ls
+ 1661  cd lib/
+ 1662  ls
+ 1663  cd ../
+ 1664  ls
+ 1665  cd src/
+ 1666  ls
+ 1667  cd ../
+ 1668  ls
+ 1669  cd bin
+ 1670  ls
+ 1671  cd ../
+ 1672  ls
+ 1673  cd lib/
+ 1674  ls
+ 1675  cd /usr/local/
+ 1676  ls
+ 1677  cd include/
+ 1678  ls
+ 1679  cd ../
+ 1680  cd lib/
+ 1681  ls
+ 1682  cd 
+ 1683  ls
+ 1684  cd Documents/
+ 1685  ls
+ 1686  cd pjsip-jni/
+ 1687  ls
+ 1688  make distclean 
+ 1689  sudo make realclean 
+ 1690  make clean
+ 1691  ./configure
+ 1692  sudo ./configure
+ 1693  make dep
+ 1694  sudo make deo
+ 1695  sudo make dep
+ 1696  make 
+ 1697  sudo make 
+ 1698  make distclean 
+ 1699  sudo make clean
+ 1700  sudo make distclean 
+ 1701  sudo make realclean 
+ 1702  ./configure --with-external-pa -I /usr/local/include -L /usr/local/lib
+ 1703  sudo ./configure --with-external-pa -I /usr/local/include -L /usr/local/lib
+ 1704  ls
+ 1705  sudo ./configure --with-external-pa -I /usr/local/include -L /usr/local/lib --prefix=/usr
+ 1706  sudo ./aconfigure --with-external-pa -I /usr/local/include -L /usr/local/lib --prefix=/usr
+ 1707  ls
+ 1708  sudo ./configure --with-external-pa -I /usr/local/include -L /usr/local/lib
+ 1709  ./configure --with-external-pa -I /usr/local/include -L /usr/local/lib
+ 1710  ./configure --with-external-pa -I/usr/local/include -L/usr/local/lib --prefix=/usr
+ 1711  ./configure --with-external-pa CFLAGS=-I/usr/local/include LDFLAGS=-L/usr/local/lib --prefix=/usr
+ 1712  sudo ./configure --with-external-pa CFLAGS=-I/usr/local/include LDFLAGS=-L/usr/local/lib --prefix=/usr
+ 1713  sudo make dep
+ 1714  sudo make 
+ 1715  cd ../
+ 1716  ls
+ 1717  cd ...
+ 1718  cd /
+ 1719  ls
+ 1720  cd usr/
+ 1721  ls
+ 1722  cd local/
+ 1723  ls
+ 1724  cd include/
+ 1725  ls
+ 1726  pwd 
+ 1727  ls
+ 1728  cd ../
+ 1729  ls
+ 1730  cd lib/
+ 1731  ls
+ 1732  cd Downloads/
+ 1733  ls
+ 1734  cd ../
+ 1735  cd Documents/
+ 1736  ld
+ 1737  ls
+ 1738  emacs pjsip_compile 
+ 1739  emacs PJSIPJNI_HISTORY 
+ 1740  ls
+ 1741  cd ../
+ 1742  ls
+ 1743  cd git/
+ 1744  ls
+ 1745  cd ../
+ 1746  ls
+ 1747  cp --help 
+ 1748  ls
+ 1749  cd ../
+ 1750  cd 
+ 1751  cd Documents/
+ 1752  ls
+ 1753  cp -af  extension.conf ../ 
+ 1754  cd ..
+ 1755  ls
+ 1756  emacs extension.conf 
+ 1757  rm -rf extension.conf 
+ 1758  make install
+ 1759  printenv
+ 1760  cd $SHELL
+ 1761  grep -rni "portaudio"
+ 1762  grep --help 
+ 1763  cp --help 
+ 1764  make
+ 1765  exit
+ 1766  python -version
+ 1767  python -v
+ 1768  exit
+ 1769  python
+ 1770  which python
+ 1771  python --version
+ 1772  exit
+ 1773  apt-cache search python-dev
+ 1774  apt-get install python-dev
+ 1775  sudo su
+ 1776  ls
+ 1777  cd Documents/
+ 1778  cd pjsip-jni/
+ 1779  ls
+ 1780  cd pjsip-apps/
+ 1781  ls
+ 1782  cd bin/
+ 1783  ls
+ 1784  cd samples/
+ 1785  ls
+ 1786  cd ..
+ 1787  ls
+ 1788  cd ..
+ 1789  ls
+ 1790  grep -inr "java"
+ 1791  cd pjsip-apps/
+ 1792  ls
+ 1793  cd src/
+ 1794  ls
+ 1795  cd swig/
+ 1796  ls
+ 1797  cd java/
+ 1798  ls
+ 1799  cd android/
+ 1800  ls
+ 1801  cd jni/
+ 1802  ls
+ 1803  cd ..
+ 1804  ls
+ 1805  cd src/
+ 1806  ls
+ 1807  cd org/
+ 1808  ls
+ 1809  cd pjsip/j
+ 1810  ls
+ 1811  cd pjsip/
+ 1812  ls
+ 1813  cd pjsua2/
+ 1814  ls
+ 1815  cd app/
+ 1816  ls
+ 1817  emacs -nw CallActivity.java 
+ 1818  ls
+ 1819  cat CallActivity.java 
+ 1820  cd ..
+ 1821  ls
+ 1822  find . -name "CallOpParam.java"
+ 1823  grep -inr "CallOpParam"
+ 1824  cd ..
+ 1825  ls
+ 1826  grep -inr "CallOpParam"
+ 1827  cd ../../../
+ 1828  ls
+ 1829  grep -inr "CallOpParam"
+ 1830  cd ../../../
+ 1831  cd pjsip-jni/
+ 1832  ls
+ 1833  grep -inr "CallOpParam"
+ 1834  ls
+ 1835  grep -inr "java"
+ 1836  cd pjsip-apps/
+ 1837  ls
+ 1838  cd src/
+ 1839  ls
+ 1840  cd pygui/
+ 1841  ls
+ 1842  lecd ..
+ 1843  ls
+ 1844  cd ..
+ 1845  ls
+ 1846  cd 3rdparty_media_sample/
+ 1847  ls
+ 1848  cd ..
+ 1849  ls
+ 1850  cd swig/
+ 1851  ls
+ 1852  make
+ 1853  sudo su
+ 1854  cd Downloads/
+ 1855  ls
+ 1856  cd JVOIP/
+ 1857  ls
+ 1858  cd JVoIP/
+ 1859  ls
+ 1860  cd ../
+ 1861  ls
+ 1862  java -jar JVoIP
+ 1863  java -jar JVoIP.jar 
+ 1864  poweroff 
+ 1865  ssh
+ 1866  man ssh
+ 1867  lll
+ 1868  ll
+ 1869  gedit ~/.bashrc
+ 1870  Source  ~/.bashrc
+ 1871  source  ~/.bashrc
+ 1872  sudo service docker status
+ 1873  sudo  systemctl docker stop
+ 1874  sudo  systemctl service  docker stop
+ 1875  sudo service  docker stop
+ 1876  sudo service  asterisk status
+ 1877  ls
+ 1878  java -jar .
+ 1879  java -jar J*
+ 1880  java -jar JVoIP.jar 
+ 1881  sudo service asterisk status
+ 1882  cd Downloads/
+ 1883  ls
+ 1884  ls -l | grep "*.dep"
+ 1885  ls
+ 1886  cd ../
+ 1887  ls
+ 1888  unzip artifacts.zip 
+ 1889  ls
+ 1890  cd asterisk
+ 1891  ks
+ 1892  ;s
+ 1893  ls
+ 1894  cd ../
+ 1895  ;s
+ 1896  ls
+ 1897  cd deb/
+ 1898  ;s
+ 1899  ls
+ 1900  dpkg -i smartpas_0.1_all.deb 
+ 1901  sudo dpkg -i smartpas_0.1_all.deb 
+ 1902  ls
+ 1903  l
+ 1904  s
+ 1905  ls
+ 1906  cd JAVA/
+ 1907  ls
+ 1908  cd ../
+ 1909  ls
+ 1910  cd Downloads/
+ 1911  ls
+ 1912  cd JVOIP/
+ 1913  ls
+ 1914  pwd
+ 1915  mvn clean
+ 1916  zip -cvf pjsip-jni/
+ 1917  zip -cvf -o pjsip-jni.zip pjsip-jni/
+ 1918  l
+ 1919  zip -r pjsip-jni/ pjsip-jni/
+ 1920  ls
+ 1921  ls -l
+ 1922  cd ../
+ 1923  ls
+ 1924  cd git/
+ 1925  ls
+ 1926  cd pjsip-jni/
+ 1927  ls
+ 1928  zip -r pjsip-jni.zip *
+ 1929  ls
+ 1930  mv pjsip-jni.zip ../
+ 1931  ls
+ 1932  cd ../
+ 1933  ls
+ 1934  git clone https://repo.zilogic.com/sridhar/asteriskconfiguration.git
+ 1935  cd ../
+ 1936  git clone https://repo.zilogic.com/sridhar/asteriskconfiguration.git
+ 1937  ls
+ 1938  git clone https://repo.zilogic.com/sridhar/asteriskconfiguration.git
+ 1939  cd asteriskconfiguration/
+ 1940  ls
+ 1941  mvn clean
+ 1942  mvn install
+ 1943  ls
+ 1944  cd src/
+ 1945  ls
+ 1946  cd ../
+ 1947  ls
+ 1948  gedit pom.xml 
+ 1949  cd src/
+ 1950  ls
+ 1951  cd main/
+ 1952  ls
+ 1953  cd java/
+ 1954  ls
+ 1955  cd util/
+ 1956  ls
+ 1957  cd ../../
+ 1958  ls
+ 1959  cd ../
+ 1960  ls
+ 1961  cd ../
+ 1962  ls
+ 1963  ./build.sh 
+ 1964  mvn clean
+ 1965  ./build.sh 
+ 1966  mvn package
+ 1967  ifconfig 
+ 1968  sudo service  docker start
+ 1969  sudo service  docker status
+ 1970  sudo su
+ 1971  sudo service  docker status
+ 1972  SL
+ 1973  ls
+ 1974  cd Downloads/n
+ 1975  cd Downloads/
+ 1976  ls
+ 1977  cd SERVER/
+ 1978  ls
+ 1979  cd ../
+ 1980  sudo service asterisk status
+ 1981  sudo service asterisk stop
+ 1982  sudo su
+ 1983  docker images
+ 1984  sudo docker images
+ 1985  sudo docker ps -a
+ 1986  sudo docker start dc17c185a6c2
+ 1987  sudo exec -it dc17c185a6c2 /bin/bash
+ 1988  sudo docker exec -it dc17c185a6c2 /bin/bash
+ 1989  sudo docker start dc17c185a6c2
+ 1990  sudo docker exec -it dc17c185a6c2 /bin/bash
+ 1991  docker ps -a
+ 1992  sudo docker ps -a
+ 1993  sudo docker rm dc17c185a6c2
+ 1994  sudo docker rm -f dc17c185a6c2
+ 1995  sudo docker ps -a
+ 1996  sudo docker rm -f e14d3884fef3
+ 1997  sudo docker start 7fd60a4826de
+ 1998  sudo docker exec -it 7fd60a4826de /bin/bash 
+ 1999  cd 
+ 2000  cd Downloads/
+ 2001  ls *.tar.gz
+ 2002  tar xvzf pjproject-2.12.1.tar.gz 
+ 2003  cd pjproject-2.12.1/
+ 2004  ls
+ 2005  find . -name *.tar.gz
+ 2006  find . -name *.so
+ 2007  cd ..
+ 2008  cd pjproject-2.12.1/
+ 2009  ls
+ 2010  cd pjsip
+ 2011  ls
+ 2012  cd build/
+ 2013  ls
+ 2014  make
+ 2015  ./configure
+ 2016  cd ..
+ 2017  cd pjsip-apps/
+ 2018  ls
+ 2019  cd src/
+ 2020  ls
+ 2021  cd pjsua2/
+ 2022  ls
+ 2023  cd ios-swift-pjsua2/
+ 2024  ls
+ 2025  cd ios-swift-pjsua2
+ 2026  ls
+ 2027  cd ..
+ 2028  ls
+ 2029  cd ..
+ 2030  ls
+ 2031  cd ..
+ 2032  ls
+ 2033  cd ..
+ 2034  ls
+ 2035  cd ..
+ 2036  ls
+ 2037  ./configure
+ 2038  make deb 
+ 2039  cd 
+ 2040  cd Desktop/
+ 2041  cd pjsip-jni
+ 2042  l
+ 2043  find . -name *.so
+ 2044  cd pjsip-apps/
+ 2045  ls
+ 2046  cd src/
+ 2047  ls
+ 2048  cd swig/
+ 2049  ls
+ 2050  make
+ 2051  apt-cache search python-dev
+ 2052  apt-get install python-dev-is-python2
+ 2053  sudo su
+ 2054  cd ..
+ 2055  cd 
+ 2056  cd Downloads/
+ 2057  cd pjproject-2.12.1/
+ 2058  ls
+ 2059  ./configure --enable-shared
+ 2060  make dep 
+ 2061  make
+ 2062  cd pjsip-apps/
+ 2063  ls
+ 2064  cd build/
+ 2065  ls
+ 2066  find . -name *.so
+ 2067  cd ..
+ 2068  ls
+ 2069  d ..
+ 2070  ls
+ 2071  cd ..
+ 2072  ls
+ 2073  make dep & make
+ 2074  find . -name *.a
+ 2075  sudo make install
+ 2076  ls
+ 2077  cd 
+ 2078  cd /tmp/
+ 2079  ls
+ 2080  emacs -nw MyAccount.java
+ 2081  javac MyAccount.java 
+ 2082  emacs -nw MyAccount.java 
+ 2083  javac MyAccount.java 
+ 2084  emacs -nw MyAccount.java 
+ 2085  javac MyAccount.java 
+ 2086  cd 
+ 2087  cd Downloads/
+ 2088  cd pjproject-2.12.1/
+ 2089  ls
+ 2090  cd pjsip-apps/
+ 2091  ls
+ 2092  cd src/
+ 2093  ls
+ 2094  cd pjsua2/
+ 2095  ls
+ 2096  cd ..
+ 2097  cd swig/
+ 2098  ls
+ 2099  cd java/
+ 2100  ls
+ 2101  cd android/
+ 2102  ls
+ 2103  cd pjsua2/
+ 2104  ls
+ 2105  cd src/
+ 2106  ls
+ 2107  cd main/
+ 2108  ls
+ 2109  cd ..
+ 2110  ls
+ 2111  cd ..
+ 2112  ls
+ 2113  cd ..
+ 2114  ls
+ 2115  make
+ 2116  ls
+ 2117  cd output/
+ 2118  ls
+ 2119  cd ..
+ 2120  ls
+ 2121  cd android/
+ 2122  ls
+ 2123  cd app
+ 2124  ls
+ 2125  cd src/
+ 2126  ls
+ 2127  cd main/
+ 2128  ls
+ 2129  cd java/
+ 2130  ls
+ 2131  cd org/
+ 2132  ls
+ 2133  cd pjsip/
+ 2134  ls
+ 2135  cd pjsua2/
+ 2136  ls
+ 2137  d app/
+ 2138  cd app/
+ 2139  ls
+ 2140  emacs -nw MyApp.java 
+ 2141  cd ..
+ 2142  ls
+ 2143  cd ..
+ 2144  ls
+ 2145  cd ..
+ 2146  ls
+ 2147  cd java/
+ 2148  ls
+ 2149  cd org/
+ 2150  ls
+ 2151  cd pjsip/
+ 2152  ls
+ 2153  cd pjsua2/
+ 2154  ls
+ 2155  cd app/
+ 2156  ls
+ 2157  cat MainActivity.java 
+ 2158  ls
+ 2159  cat CallActivity.java 
+ 2160  cd ..
+ 2161  ls
+ 2162  cd ..
+ 2163  ls
+ 2164  cd ..
+ 2165  ls
+ 2166  cd ..
+ 2167  ls
+ 2168  cd ..
+ 2169  ls
+ 2170  cd ..
+ 2171  ls
+ 2172  cd ..
+ 2173  ls
+ 2174  cd ..
+ 2175  ls
+ 2176  cd ..
+ 2177  ls
+ 2178  cd output/
+ 2179  ls
+ 2180  cd ..
+ 2181  cd output/
+ 2182  ls
+ 2183  cd org/
+ 2184  ls
+ 2185  cd pjsip/
+ 2186  ls
+ 2187  cd pjsua2/
+ 2188  ls
+ 2189  pwd
+ 2190  ls
+ 2191  pwd
+ 2192  ls
+ 2193  pwd
+ 2194  ls
+ 2195  cd ..
+ 2196  ls
+ 2197  cd ..
+ 2198  ls
+ 2199  cd ..
+ 2200  ls
+ 2201  pwd
+ 2202  ls
+ 2203  cd org/
+ 2204  ls
+ 2205  cd pjsip/
+ 2206  ls
+ 2207  cd pjsua2/
+ 2208  ls
+ 2209  cd ..
+ 2210  ls
+ 2211  cd ls
+ 2212  cd ../
+ 2213  ls
+ 2214  cd ../../
+ 2215  ls
+ 2216  cd ../
+ 2217  ls
+ 2218  make 
+ 2219  history >> HISTIORYJAVAJNI-COMPILE
